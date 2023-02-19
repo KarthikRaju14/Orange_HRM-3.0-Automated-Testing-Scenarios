@@ -23,5 +23,5 @@ The program will verify if the error message "Invalid credentials" is displayed 
 
 
 
-📋Note: The program can be customized by modifying the username, password, and url variables to test different login scenarios. Happy testing! 🧪🔍🍊
+📋Note: The program can be customized by modifying the username, password, and url variables to test different login scenarios. Happy testing!🙌 🧪🔍🍊
 
